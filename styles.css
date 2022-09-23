@@ -1,0 +1,25 @@
+body{
+    background-image: url(../../images/test.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;   
+}
+
+button{
+    align-content: center;
+}
+
+#searchx{
+    position: absolute;
+    right: 100px;
+    font-size: 15px;
+    margin: auto;
+    width: 18%;
+    border: 3px solid black;
+}
+
+
+
+
+
+
